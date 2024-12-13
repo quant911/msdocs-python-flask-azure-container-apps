@@ -351,4 +351,3 @@ MigrationBackup/
 
 # Virtual environment and .env
 .venv
-.env
